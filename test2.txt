@@ -1,0 +1,6 @@
+worth
+apple
+banana
+test
+computer
+laptop

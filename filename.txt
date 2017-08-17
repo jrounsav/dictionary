@@ -1,0 +1,5 @@
+Words in Input: 6
+Lines read: 2
+Input Words replaced: 2
+Words Added to Dictionary: 2
+Input words ignored: 6
